@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
     AppAssets.facebook,
     AppAssets.twitter,
     AppAssets.linkedIn,
-    AppAssets.insta,
+    // AppAssets.insta,
     AppAssets.whatsapp,
     AppAssets.github,
   ];
@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
     AppAssets.facebook: 'https://www.facebook.com/Gowda.janardhan/',
     AppAssets.twitter: 'https://www.facebook.com/Gowda.janardhan/',
     AppAssets.linkedIn: 'https://www.linkedin.com/in/janardhan-gowda-021700178/',
-    AppAssets.insta: 'https://www.linkedin.com/in/janardhan-gowda-021700178/',
+    // AppAssets.insta: 'https://www.linkedin.com/in/janardhan-gowda-021700178/',
     AppAssets.whatsapp: 'https://wa.link/jh263a',
     AppAssets.github: 'https://github.com/JanardhanGowda18/',
   };
